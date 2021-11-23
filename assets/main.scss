@@ -11,6 +11,7 @@ html, body {
 
 .site-header {
 	flex: 0;
+	min-height: 60px;
 }
 
 .scroller {
@@ -23,10 +24,14 @@ html, body {
 .site-title::before {
 	content: "";
 	background-image: url("/assets/logo.svg");
-	background-size: 50px 50px;
+	background-size: 60px 60px;
 	display: inline-block;
-	width: 50px;
-	height: 50px;
+	width: 60px;
+	height: 60px;
 	margin-right: 5px;
 	vertical-align: bottom;
+}
+
+.site-nav {
+	line-height: 65px;
 }
