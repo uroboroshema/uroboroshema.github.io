@@ -1,6 +1,8 @@
 - date: 2021-11-03
   challenger: Krkavci
   challengee: PSA
+  finished: true
 - date: 2021-11-22
   challenger: Digladior
   challengee: Krkavci
+  finished: false
