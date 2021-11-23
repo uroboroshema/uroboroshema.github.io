@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pravidla
-order: 3
+order: 4
 ---
 
 TODO pravidla
