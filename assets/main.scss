@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+html, body {
+	height: 100%;
+	min-height: 100%;
+}
+
+.site-header {
+	flex: 0;
+}
+
+.scroller {
+	flex: auto;
+	overflow-y: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.site-title::before {
+	content: "";
+	background-image: url("/assets/logo.png");
+	background-size: 50px 50px;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin-right: 5px;
+	vertical-align: bottom;
+}
