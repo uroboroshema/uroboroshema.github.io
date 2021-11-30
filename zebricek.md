@@ -4,7 +4,7 @@ title: Žebříček
 order: 2
 ---
 
-Aktuální k 22.11.2021.
+Poslední aktualizace 22.11.2021.
 
 | Pořadí | Klub      | Dostupný k výzvě | Vyzvaný týmem | Vyzývá tým |
 | ------ | --------- | ---------------- | ------------- | ---------- |
