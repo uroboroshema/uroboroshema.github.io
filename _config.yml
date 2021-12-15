@@ -37,6 +37,7 @@ plugins:
   - jekyll-feed
 
 timezone: Europe/Prague
+future: true
 
 collections:
   challenges:
