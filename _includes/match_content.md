@@ -12,6 +12,10 @@
 {{ include.data.match.challengee_lineup[2] }}{% if include.data.match.challengee_lineup.size == 4 %},
 ({{ include.data.match.challengee_lineup[3] }}){% endif %}  
 **Výsledek**: {{ include.data.match.challenger_score }}:{{ include.data.match.challengee_score}}
+{% if include.data.match.video_code %}
+Záznam zápasu:
+{{ include.data.match.video_code }}
+{% endif %}
 {% else %}**Vyzyvatel**: {{ include.data.challenger }}  
 **Vyzvaný**: {{ include.data.challengee }}
 
