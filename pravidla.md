@@ -18,7 +18,7 @@ order: 4
 9.  Turnaj je stále otevřen a mohou do něj kdykoliv přistupovat další kluby.
     Nový klub je automaticky zařazen na konec žebříčku.
 10. Organizaci žebříčku a zveřejňování výzev a výsledků zajišťuje Kamil Hozák, PSA, na FB stránkách Uroboros. 
-11. Zápas musí proběhnout nejdéle 30 dní od zveřejnění výzvy.
+11. Zápas musí proběhnout nejpozději 30 dní od zveřejnění výzvy (datum výzvy + 30 dní).
     V případě, že se zápas neuskuteční, kontumačně vyhrává vyzyvatel.
     (případné stížnosti na "neochotu vyzyvatele k zápasu" rozhoduje organizátor soutěže)
 12. Zápas může proběhnout kdykoliv v rámci společných sparringů nebo na sjednaném místě a čase, oznámeném předem organizátorovi této soutěže. 
