@@ -4,11 +4,11 @@ title: Žebříček
 order: 2
 ---
 
-Poslední aktualizace 15.12.2021.
+Poslední aktualizace 14.1.2022.
 
 | Pořadí | Klub              | Dostupný k výzvě | Vyzvaný týmem     | Vyzývá tým |
 | ------ | ----------------- | ---------------- | -------------     | ---------- |
 | 1.     | Krkavci           | Ano              |                   |            |
-| 2.     | PSA               | Ne               | Poslední Argument |            |
+| 2.     | PSA               | Ano              |                   |            |
 | 3.     | Digladior         | Ano              |                   |            |
-| 4.     | Poslední Argument | Ne               |                   | PSA        |
+| 4.     | Poslední Argument | Ano              |                   |            |
