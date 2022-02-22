@@ -4,7 +4,7 @@ title: Výzvy a zápasy
 order: 3
 ---
 
-Poslední aktualizace 21.1.2022.
+Poslední aktualizace 22.2.2022.
 
 {% assign challenges = site.challenges | reverse %}
 | Vyzyvatel | Vyzvaný | Datum výzvy | Výsledek | Vítěz | Detaily zápasu |
