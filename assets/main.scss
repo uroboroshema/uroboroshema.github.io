@@ -35,3 +35,13 @@ html, body {
 .site-nav {
 	line-height: 65px;
 }
+
+ol {
+	list-style-type: decimal;
+	ol {
+		list-style-type: lower-alpha;
+		ol {
+			list-style-type: lower-roman;
+		}
+	}
+}
