@@ -4,13 +4,13 @@ title: Žebříček
 order: 2
 ---
 
-Poslední změna 13.6.2022.
+Poslední změna 20.7.2022.
 
-| Pořadí | Klub              | Dostupný k výzvě | Vyzvaný týmem     | Vyzývá tým        |
-| ------ | ----------------- | ---------------- | -------------     | ----------------- |
-| 1.     | Krkavci           | Ano              |                   |                   |
-| 2.     | PSA               | Ano              |                   |                   |
-| 3.     | Digladior         | Ne               | Duelanti          |                   |
-| 4.     | Duelanti          | Ne               |                   | Digladior         |
-| 5.     | Poslední Argument | Ano              |                   |                   |
-| 6.     | Helops            | Ano              |                   |                   |
+| Pořadí | Klub              | Město     | Dostupný k výzvě | Vyzvaný týmem     | Vyzývá tým        |
+| ------ | ----------------- | --------- | ---------------- | -------------     | ----------------- |
+| 1.     | Krkavci           | Praha     | Ano              |                   |                   |
+| 2.     | PSA               | Pardubice | Ano              |                   |                   |
+| 3.     | Duelanti          | Praha     | Ano              |                   |                   |
+| 4.     | Digladior         | Praha     | Ano              |                   |                   |
+| 5.     | Poslední Argument | Praha     | Ano              |                   |                   |
+| 6.     | Helops            | Přepeře   | Ano              |                   |                   |
