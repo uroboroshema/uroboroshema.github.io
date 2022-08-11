@@ -12,9 +12,9 @@ Poslední změna {{ challenges[0].date | date: "%d.%-m.%Y" }}.
 {% endif %}
 
 | Pořadí | Klub              | Město     | Dostupný k výzvě | Vyzvaný týmem     | Vyzývá tým        |
-| ------ | ----------------- | --------- | ---------------- | -------------     | ----------------- |
-| 1.     | Krkavci           | Praha     | Ne               | PSA               |                   |
-| 2.     | PSA               | Pardubice | Ne               |                   | Krkavci           |
+| ------ | ----------------- | --------- | ---------------- | ----------------- | ----------------- |
+| 1.     | PSA               | Pardubice | Ano              |                   |                   |
+| 2.     | Krkavci           | Praha     | Ano              |                   |                   |
 | 3.     | Duelanti          | Praha     | Ano              |                   |                   |
 | 4.     | Digladior         | Praha     | Ano              |                   |                   |
 | 5.     | Poslední Argument | Praha     | Ano              |                   |                   |
