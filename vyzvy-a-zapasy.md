@@ -6,9 +6,9 @@ order: 3
 
 {% assign challenges = site.challenges | reverse %}
 {% if challenges[0].match %}
-Poslední změna {{ challenges[0].match.date | date: "%d.%-m.%Y" }}.
+Poslední změna {{ challenges[0].match.date | date: "%e.%-m.%Y" }}.
 {% else %}
-Poslední změna {{ challenges[0].date | date: "%d.%-m.%Y" }}.
+Poslední změna {{ challenges[0].date | date: "%e.%-m.%Y" }}.
 {% endif %}
 
 | Číslo | Vyzyvatel | Vyzvaný | Datum výzvy | Výsledek | Vítěz | Detaily zápasu |
