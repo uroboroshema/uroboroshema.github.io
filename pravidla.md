@@ -7,7 +7,7 @@ order: 4
 # Systém turnaje
 1.  Turnaje se mohou účastnit HEMA kluby z ČR zastoupené tříčlenným týmem (+1 náhradník) složeným výhradně z vlastních členů.
     Složení týmů se může na rozdílné zápasy měnit.
-2.  Zbraní je dlouhý meč podle pravidel PSA.
+2.  Zbraní je dlouhý meč podle [pravidel](https://docs.google.com/document/d/1DtFmpmH63JngQKm2ha_PDHue11wkuaZip_Y7VLMtWxE/edit?usp=sharing){:target="_blank"} PSA.
 3.  Každý klub je zastoupen pouze jedním týmem.
 4.  Turnaj běží permanentně a nikdy nekončí.
 5.  Tříčlenné týmy spolu šermují zápas na jedno skóre, viz [Systém zápasu týmů](#systém-zápasu-týmů).
